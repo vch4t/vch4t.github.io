@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">vch4t的牢骚</title>
     <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2024-04-13T02:23:50&#43;08:00</updated>
+    <updated>2024-04-13T02:26:12&#43;08:00</updated>
     <id>https://vch4t.github.io/</id>
     <link rel="alternate" type="text/html" href="https://vch4t.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://vch4t.github.io/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">开始</title>
             <link rel="alternate" type="text/html" href="https://vch4t.github.io/posts/%E5%BC%80%E5%A7%8B/" />
             <id>https://vch4t.github.io/posts/%E5%BC%80%E5%A7%8B/</id>
-            <updated>2024-04-13T02:16:22&#43;08:00</updated>
+            <updated>2024-04-13T02:25:25&#43;08:00</updated>
             <published>2024-04-13T02:15:46&#43;08:00</published>
             <author>
                     <name>vch4t</name>
@@ -47,7 +47,7 @@
             <title type="text">Hello World</title>
             <link rel="alternate" type="text/html" href="https://vch4t.github.io/posts/hello-world/" />
             <id>https://vch4t.github.io/posts/hello-world/</id>
-            <updated>2024-04-13T02:23:43&#43;08:00</updated>
+            <updated>2024-04-13T02:25:28&#43;08:00</updated>
             <published>2024-04-13T00:22:46&#43;08:00</published>
             <author>
                     <name>vch4t</name>

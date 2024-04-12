@@ -8,7 +8,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>vch4t的牢骚</title>
-        <link>http://localhost:1313/</link>
+        <link>https://vch4t.github.io/</link>
         <description>MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</description>
         <generator>Hugo 0.124.1 https://gohugo.io/</generator>
         
@@ -23,34 +23,10 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sat, 13 Apr 2024 00:50:03 &#43;0800</lastBuildDate>
+        <lastBuildDate>Sat, 13 Apr 2024 02:07:14 &#43;0800</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss&#43;xml" href="http://localhost:1313/rss.xml" />
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://vch4t.github.io/rss.xml" />
         
-        
-            <item>
-                <title>Hello World</title>
-                <link>http://localhost:1313/posts/hello-world/</link>
-                <guid isPermaLink="true">http://localhost:1313/posts/hello-world/</guid>
-                <pubDate>Sat, 13 Apr 2024 00:22:46 &#43;0800</pubDate>
-                
-                    <author>vch4t@qq.com (vch4t)</author>
-                
-                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
-                
-                    <description></description>
-                
-                
-                
-                
-                
-                    
-                        
-                    
-                        
-                    
-                
-            </item>
         
     </channel>
 </rss>

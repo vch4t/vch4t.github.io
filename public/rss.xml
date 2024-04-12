@@ -23,10 +23,59 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sat, 13 Apr 2024 02:07:14 &#43;0800</lastBuildDate>
+        <lastBuildDate>Sat, 13 Apr 2024 02:23:50 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://vch4t.github.io/rss.xml" />
         
+        
+            <item>
+                <title>开始</title>
+                <link>https://vch4t.github.io/posts/%E5%BC%80%E5%A7%8B/</link>
+                <guid isPermaLink="true">https://vch4t.github.io/posts/%E5%BC%80%E5%A7%8B/</guid>
+                <pubDate>Sat, 13 Apr 2024 02:15:46 &#43;0800</pubDate>
+                
+                    <author>vch4t@qq.com (vch4t)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Hello World</title>
+                <link>https://vch4t.github.io/posts/hello-world/</link>
+                <guid isPermaLink="true">https://vch4t.github.io/posts/hello-world/</guid>
+                <pubDate>Sat, 13 Apr 2024 00:22:46 &#43;0800</pubDate>
+                
+                    <author>vch4t@qq.com (vch4t)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;ccc
+&lt;/code&gt;&lt;/pre&gt;</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
         
     </channel>
 </rss>

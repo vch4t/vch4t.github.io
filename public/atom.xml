@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">vch4t的牢骚</title>
     <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2024-04-13T02:26:12&#43;08:00</updated>
+    <updated>2024-04-13T14:08:36&#43;08:00</updated>
     <id>https://vch4t.github.io/</id>
     <link rel="alternate" type="text/html" href="https://vch4t.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://vch4t.github.io/atom.xml" />
@@ -20,44 +20,39 @@
             <title type="text">开始</title>
             <link rel="alternate" type="text/html" href="https://vch4t.github.io/posts/%E5%BC%80%E5%A7%8B/" />
             <id>https://vch4t.github.io/posts/%E5%BC%80%E5%A7%8B/</id>
-            <updated>2024-04-13T02:25:25&#43;08:00</updated>
+            <updated>2024-04-13T14:07:08&#43;08:00</updated>
             <published>2024-04-13T02:15:46&#43;08:00</published>
             <author>
                     <name>vch4t</name>
                     <uri>https://io-oi.me/</uri>
                     <email>vch4t@qq.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html"></summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">为什么要开博客？ 可能是最近遇到了很多挫折, 没处倒垃圾了吧 (笑 什么挫折？至于吗？ 大三下……</summary>
             
-                <content type="html"></content>
-            
-            
-            
-            
-            
-                
-                    
-                
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">Hello World</title>
-            <link rel="alternate" type="text/html" href="https://vch4t.github.io/posts/hello-world/" />
-            <id>https://vch4t.github.io/posts/hello-world/</id>
-            <updated>2024-04-13T02:25:28&#43;08:00</updated>
-            <published>2024-04-13T00:22:46&#43;08:00</published>
-            <author>
-                    <name>vch4t</name>
-                    <uri>https://io-oi.me/</uri>
-                    <email>vch4t@qq.com</email>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">ccc </summary>
-            
-                <content type="html">&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;ccc
-&lt;/code&gt;&lt;/pre&gt;</content>
+                <content type="html">&lt;h3 id=&#34;为什么要开博客&#34;&gt;为什么要开博客？&lt;/h3&gt;
+&lt;p&gt;可能是最近遇到了很多挫折, 没处倒垃圾了吧 (笑&lt;/p&gt;
+&lt;h3 id=&#34;什么挫折至于吗&#34;&gt;什么挫折？至于吗？&lt;/h3&gt;
+&lt;p&gt;大三下了, 最近在投实习, 投的是二进制安全岗位, 颗粒无收. 原因也是多方面的:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;不会找, 信息太闭锁了&lt;/li&gt;
+&lt;li&gt;岗位真的太少了&lt;/li&gt;
+&lt;li&gt;没看到有小厂在收人, 全是大厂&lt;/li&gt;
+&lt;li&gt;我太菜了。只会pwn, 对其他偏实战的根本不懂&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;一切的根源&#34;&gt;一切的根源&lt;/h3&gt;
+&lt;p&gt;很想把一切的问题都推给环境, 但是思索良久, 只能是自身原因了. 毕竟身边的人都好优秀, 打ctf又猛, 轻松找到实习&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;性格懦弱又内向&lt;/li&gt;
+&lt;li&gt;态度没摆正, 十分别扭&lt;/li&gt;
+&lt;li&gt;荒废了两年多的大学时光, 玩没有玩得快乐, 学没学得进去&lt;/li&gt;
+&lt;li&gt;十分怠惰拖延, 总有找不完的借口, 比如这次搭博客就是不学习的借口 (乐&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;随便说点&#34;&gt;随便说点&lt;/h3&gt;
+&lt;p&gt;以后就在这里发发牢骚, 一吐不快吧!&lt;br&gt;
+也许会发些面试经历, 发发技术相关的东西吧, 不知道 (&lt;br&gt;
+总之, 就当是个新的开始吧, 充满负能量的开始!&lt;br&gt;
+最后, 欢迎各位的建议和批评😋&lt;/p&gt;
+</content>
             
             
             
